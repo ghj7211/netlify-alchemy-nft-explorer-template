@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <main className={styles.main}>
-        <NFTGallery />
+        <img src="../public/artemis_1080p.avif" alt="Artemis" /> 
       </main>
     </div>
   );
