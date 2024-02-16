@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <main className={styles.main}>
-        <img alt="Artemis" src="public/artemis_1080p.avif" />
+        <img alt="Artemis" src="artemis_1080p.avif" />
       </main>
     </div>
   );
